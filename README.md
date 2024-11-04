@@ -1,4 +1,5 @@
 # bases-de-la-programacion-c-
+https://github.com/alexdulo06/bases-de-la-programacion-c-.git
 
 
 Enunciado de los ejercicios: Ejercicios por parejas/trios con un único repositorio en Github
